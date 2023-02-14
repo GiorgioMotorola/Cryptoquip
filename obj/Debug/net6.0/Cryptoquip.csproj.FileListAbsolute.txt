@@ -1,0 +1,15 @@
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\bin\Debug\net6.0\Cryptoquip.exe
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\bin\Debug\net6.0\Cryptoquip.deps.json
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\bin\Debug\net6.0\Cryptoquip.runtimeconfig.json
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\bin\Debug\net6.0\Cryptoquip.dll
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\bin\Debug\net6.0\Cryptoquip.pdb
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.csproj.AssemblyReference.cache
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.AssemblyInfoInputs.cache
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.AssemblyInfo.cs
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.csproj.CoreCompileInputs.cache
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.dll
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\refint\Cryptoquip.dll
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.pdb
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\Cryptoquip.genruntimeconfig.cache
+C:\Users\downw\Desktop\projects\Cryptoquip\Cryptoquip\obj\Debug\net6.0\ref\Cryptoquip.dll
